@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Document>
+	<item>
+		<id>9</id>
+		<title>Aquartis</title>
+		<address>Entrepotdok</address>
+		<number>110-210</number>
+		<postcode>1018 AD</postcode>
+		<city>Amsterdam</city>
+		<country>Netherlands</country>
+		<website>www.heijmans.nl</website>
+		<freeint1 desc="rating">3</freeint1>
+		<freetext1 desc="public">2</freetext1>
+		<freetext2 desc="contributor">MI_MOA</freetext2>
+		<freetext3 desc="completion">1 - 2001</freetext3>
+		<freetext4 desc="client">Heijmans Vastgoed, Almere</freetext4>
+		<freetext5 desc="function">housing</freetext5>
+		<freetext6 desc="guide_id">107, 236, 355, 364, 142, 401, 412, 569, 575, 582, 599, 679, 686,
+			820, 952, 1028, 1133, 1127, 1166, 1167, 1254, 1295, 1321, 1346, 1390, 1513, 1557, 1560,
+			1668, 1598, 1618, 1652, 1654, 1723, 1890, 1900, 305, 2060, 2186, 2213, 2352, 2264, 2361,
+			2652, 2653, 2220, 2854, 2887, 2892, 2952, 3077, 3066, 3086, 3223, 3274, 3468, 3575,
+			3598, 3641, 3666, 3706, 3794, 3860, 3864, 3876, 3890, 4071, 4367, 4407, 4436, 4434,
+			4467, 4403, 4527, 4561, 4730, 4748, 5175, 5113, 5145, 5168, 5333, 5539, 5684, 6009,
+			5891, 5978, 6120, 6239, 6404, 6436, 5805, 6650, 6869, 6877, 6949, 7022, 7117, 6919,
+			7525, 7623, 7813, 4677, 7847, 17284, 7950, 8279, 8366, 8364, 9543, 8225, 8457, 8466,
+			8577, 8579, 8807, 9059, 9085, 8095, 9409, 2823, 9415, 9413, 9422, 9433, 9432, 9457,
+			9493, 9501, 9530, 9618, 9598, 9605, 9654, 5447, 9742, 9403, 9883, 9892, 9859, 9899,
+			9901, 9930, 6857, 9994, 10009, 10042, 10182, 10370, 10389, 10520, 10494, 10573, 10607,
+			10637, 10747, 10772, 5146, 11046, 11042, 11668, 11839, 11968, 12327, 12276, 11962,
+			12431, 12415, 12427, 12422, 12447, 12528, 12639, 12668, 12669, 12694, 12798, 13033,
+			13032, 13157, 13286, 13295, 13352, 13376, 13651, 13661, 13753, 2569, 13807, 13943,
+			14127, 14600, 14637, 14890, 15407, 15441, 15446, 15541, 15664, 15861, 15497, 15983,
+			16057, 16213, 16456, 16596, 16814, 16815, 16816, 17066, 17220, 17279, 18223, 18559,
+			7553, 17619, 17728, 17746, 17877, 19838, 17999, 18073, 18075, 18079, 18145, 18218,
+			18312, 18353, 18355, 18356, 18488, 18505, 18507, 18775, 18577, 18785, 18773, 18835,
+			18874, 18935, 17605, 19082, 19122, 19149, 19269, 19311, 2378, 19736, 19757, 19922,
+			19977, 19988, 20157, 20227
+		</freetext6>
+		<freetext7 desc="projecttype">Architecture</freetext7>
+		<freetext8 desc="designer">Dok Architecten</freetext8>
+		<freetext9 desc="projecturl">http://www.mimoa.eu/projects/Netherlands/Amsterdam/Aquartis
+		</freetext9>
+		<category>2</category>
+		<lon>4.921145</lon>
+		<lat>52.366311</lat>
+		<thumb>http://mimoa.eu/images/33_s.jpg</thumb>
+		<image1>http://mimoa.eu/images/33_m.jpg</image1>
+		<imageset>
+			http://mimoa.eu/images/30_m.jpg,http://mimoa.eu/images/33_m.jpg,http://mimoa.eu/images/4279_m.jpg
+		</imageset>
+		<imagedescription>Naomi Schiphorst (www.nghm.nl),Naomi Schiphorst (www.nghm.nl),Maarten
+			Helle (http://www.hellebeelden.nl/)
+		</imagedescription>
+		<summary>With a spectacular view over the city's Zoo, Artis, this residential building with
+			110 luxury apartments, catering and two collective business units, is the last in a row
+			of former warehouses on the Entrepotdok. Aquartis was build on the site of a former coal
+			storage unit, the supporting wall of this old building has been preserved and has become
+			part of the new building. The existing supporting wall has been integrated in a new
+			plinth, a rhythm of brick piers. Liesbeth van der Pol has carefully assimilated the
+			existing context and attuned the housing block to it. The front fa&amp;ccedil;ade is
+			built up with wooden frames filled with glass which can fold inward, opened fully to
+			maximize light and views. Aquartis is a deep greyish purple, which accentuates the
+			monumental character of the block.
+		</summary>
+		<datecreated>2006-12-22 00:29:50</datecreated>
+		<datemodified>2007-09-14 14:02:05</datemodified>
+	</item>
+	<item>
+		<id>10</id>
+		<title>Jan Schaeferbrug</title>
+		<address>Piet Heinkade</address>
+		<number>179-181</number>
+		<postcode>1019 HC</postcode>
+		<city>Amsterdam</city>
+		<country>Netherlands</country>
+		<website>http://www.oga.amsterdam.nl/</website>
+		<freeint1 desc="rating">3</freeint1>
+		<freetext1 desc="public">1</freetext1>
+		<freetext2 desc="contributor">Venhoeven_CS_Architects</freetext2>
+		<freetext3 desc="completion">9 - 2001</freetext3>
+		<freetext4 desc="client">Gemeentelijk Grondbedrijf Amsterdam</freetext4>
+		<freetext5 desc="function">bridge</freetext5>
+		<freetext6 desc="guide_id">202, 236, 305, 1, 355, 363, 401, 746, 569, 575, 582, 679, 686,
+			865, 820, 1028, 1127, 1166, 1167, 1254, 1276, 1295, 1345, 1390, 1458, 1513, 1533, 2086,
+			1557, 1598, 1668, 1618, 1652, 1654, 1663, 1868, 1723, 1745, 1827, 1890, 1900, 1915,
+			2060, 2186, 2213, 2351, 2264, 2361, 12550, 2652, 2653, 2220, 2854, 13753, 2887, 2892,
+			3066, 3076, 3086, 3274, 3389, 3404, 3468, 3598, 3641, 3666, 3706, 3794, 3860, 3890,
+			3876, 3881, 3969, 17066, 4071, 4147, 4721, 5345, 4367, 4407, 4434, 4467, 4561, 8382,
+			4730, 4767, 4807, 6650, 4748, 5116, 5145, 5161, 2680, 5168, 5334, 5333, 6116, 5641,
+			5978, 6120, 6404, 2378, 5805, 6743, 6877, 6949, 7022, 9654, 7280, 7983, 8158, 6919,
+			7525, 7728, 7846, 7813, 4677, 7834, 7864, 17284, 7950, 8017, 975, 8279, 8364, 8225,
+			8446, 8458, 8466, 8542, 8572, 8577, 8579, 8807, 9319, 9059, 9085, 8095, 2823, 9415,
+			9413, 9422, 9433, 9432, 9457, 9493, 9501, 9518, 9618, 9598, 9754, 10007, 6857, 9403,
+			9883, 9859, 9899, 9930, 9945, 9994, 10008, 10370, 10172, 10182, 10350, 10389, 10573,
+			10607, 10679, 10707, 10721, 10744, 10772, 10877, 10884, 5146, 11046, 11085, 11142,
+			17784, 18935, 11629, 11630, 11668, 11828, 11839, 12250, 12018, 12065, 12075, 11962,
+			12430, 12415, 12427, 12447, 12497, 12528, 12668, 12628, 12694, 12798, 13033, 13032,
+			13157, 13286, 13292, 4495, 13651, 13661, 2569, 13807, 13943, 14127, 14191, 14486, 14564,
+			14590, 14600, 3591, 14685, 14890, 16596, 15407, 15441, 15446, 15664, 15715, 15841,
+			15861, 15497, 15983, 16055, 16088, 16211, 16222, 16456, 16788, 16814, 16815, 16816,
+			17220, 17279, 18222, 17617, 7553, 17619, 17728, 17746, 17877, 17999, 18073, 18079,
+			18145, 18218, 18312, 18353, 18355, 18356, 18488, 18559, 18775, 18577, 18785, 18773,
+			18835, 18874, 19007, 17605, 19082, 19121, 19149, 19269, 19311, 19428, 19550, 19757,
+			19922, 19946, 19977, 19988, 20157, 20227
+		</freetext6>
+		<freetext7 desc="projecttype">Infrastructure</freetext7>
+		<freetext8 desc="designer">Venhoeven CS</freetext8>
+		<freetext9 desc="projecturl">
+			http://www.mimoa.eu/projects/Netherlands/Amsterdam/Jan%20Schaeferbrug
+		</freetext9>
+		<category>1</category>
+		<lon>4.922454</lon>
+		<lat>52.377800</lat>
+		<thumb>http://mimoa.eu/images/51_s.jpg</thumb>
+		<image1>http://mimoa.eu/images/51_m.jpg</image1>
+		<imageset>
+			http://mimoa.eu/images/40_m.jpg,http://mimoa.eu/images/41_m.jpg,http://mimoa.eu/images/51_m.jpg
+		</imageset>
+		<imagedescription>Naomi Schiphorst (www.nghm.nl),Naomi Schiphorst (www.nghm.nl),Naomi
+			Schiphorst (http://www.nghm.nl)
+		</imagedescription>
+		<summary>A 285 meter long bridge over the IJ canal links Oostelijke
+			Handelskade to the new housing area on Java-island. The logic
+			location for the bridge was the place, where 1934 warehouse
+			The Zwijger stood. Instead of demolishing the old warehouse,
+			the client decided to pierce the bridge through the building.
+			The bridge is designed for cars, bicycles and pedestrians. The
+			separate roads for these traffic types differ in inclination. The
+			underside of the bridge has an asymmetric curving shape, and its
+			“legs” are set wide apart in the water. Parts of the road-deck are
+			detachable to allow incidental passing of large boats.
+		</summary>
+		<datecreated>2006-12-22 00:29:50</datecreated>
+		<datemodified>2014-06-13 16:57:50</datemodified>
+	</item>
+	<item>
+		<id>12</id>
+		<title>The Whale</title>
+		<address>Baron G. A. Tindalplein</address>
+		<number>1</number>
+		<postcode>1019 TW</postcode>
+		<city>Amsterdam</city>
+		<country>Netherlands</country>
+		<website></website>
+		<freeint1 desc="rating">4</freeint1>
+		<freetext1 desc="public">2</freetext1>
+		<freetext2 desc="contributor">MI_MOA</freetext2>
+		<freetext3 desc="completion">0 - 2000</freetext3>
+		<freetext4 desc="client">Ontwikkelingsmaatschappij New Deal</freetext4>
+		<freetext5 desc="function">housing</freetext5>
+		<freetext6 desc="guide_id">48, 107, 120, 148, 153, 173, 183, 203, 304, 163, 229, 231, 252,
+			236, 289, 305, 355, 360, 363, 401, 412, 746, 506, 462, 527, 563, 569, 575, 581, 582,
+			693, 679, 686, 695, 861, 865, 820, 799, 999, 1022, 1028, 1067, 1093, 1127, 1668, 1166,
+			1159, 1167, 1168, 1213, 1254, 1276, 1295, 202, 1313, 17755, 1345, 1250, 1390, 1405,
+			1513, 1533, 1543, 1556, 1557, 1578, 1549, 1589, 1598, 1618, 1652, 1654, 1663, 1667,
+			1868, 1740, 1745, 1723, 1751, 1759, 1764, 1775, 1804, 1786, 1830, 1853, 1890, 58, 1900,
+			1910, 1954, 2001, 2062, 2058, 106, 2086, 2186, 2213, 2264, 2355, 2361, 2019, 2592, 2651,
+			2653, 2220, 3154, 2840, 2854, 3049, 2887, 3066, 3076, 3086, 3132, 3185, 3183, 3187,
+			3220, 3221, 3257, 3503, 3506, 3274, 11990, 3306, 3355, 3364, 3389, 3404, 3405, 3423,
+			3468, 3834, 3518, 3520, 3554, 3579, 3575, 3598, 3601, 3605, 3641, 3619, 3654, 3666,
+			3706, 3750, 3794, 3824, 4181, 3860, 3876, 3881, 3884, 3890, 4372, 3969, 4024, 4025,
+			4046, 4094, 4071, 4147, 3320, 4197, 3568, 4519, 4342, 4362, 4367, 4366, 4374, 4388,
+			4407, 4434, 4467, 4495, 4527, 4561, 8382, 8364, 4724, 4730, 4748, 4767, 4807, 6650,
+			5092, 5113, 5107, 5108, 5145, 5159, 5161, 2680, 5168, 5299, 5322, 5334, 5333, 5350,
+			9457, 5539, 5554, 5638, 5641, 5684, 17066, 5783, 17756, 5829, 5842, 6009, 5903, 5891,
+			5923, 5920, 5978, 6063, 6113, 6116, 6120, 6202, 6239, 6404, 6456, 6462, 2378, 6481,
+			6506, 5805, 5431, 6580, 6743, 6713, 6788, 6824, 6595, 6856, 6869, 6877, 6886, 6930,
+			6949, 6601, 5447, 7022, 7079, 7117, 9654, 9696, 7259, 7281, 7405, 6178, 7389, 8158,
+			7498, 7493, 6919, 7525, 7572, 7570, 7623, 7644, 7725, 7731, 7813, 4677, 7834, 7846,
+			7864, 7950, 8017, 7690, 975, 8373, 8225, 8268, 8279, 8366, 8495, 13753, 8458, 8466,
+			8467, 8520, 8542, 8572, 8577, 8604, 8635, 8774, 8807, 8846, 9059, 9164, 8900, 8896,
+			8985, 9085, 8095, 9237, 9306, 9247, 9402, 2823, 9415, 9413, 9422, 9433, 9432, 9463,
+			9493, 9501, 9502, 9543, 9519, 9618, 9605, 9600, 9598, 9742, 9518, 11443, 9403, 9883,
+			9892, 9859, 9899, 9901, 6857, 9930, 9965, 9945, 9994, 10009, 10022, 10030, 10042, 10204,
+			10052, 9978, 10136, 10142, 10182, 10172, 10265, 10280, 10370, 10389, 10429, 10580,
+			10588, 10573, 10602, 10607, 10637, 10638, 10707, 10744, 10772, 10877, 10884, 5146,
+			11042, 11071, 10869, 11322, 11324, 17793, 17784, 17903, 11615, 11630, 11668, 11788,
+			11828, 11839, 11849, 5345, 11870, 12628, 12250, 11934, 12009, 12018, 12075, 12190,
+			12182, 16456, 12344, 12747, 12373, 15723, 11962, 12415, 12430, 12427, 12447, 12497,
+			12528, 12639, 12668, 12669, 12694, 12720, 6791, 12793, 12798, 12818, 11214, 16178,
+			12826, 11914, 12904, 12983, 13033, 13032, 13044, 13063, 13157, 13193, 19334, 13286,
+			13292, 13570, 13421, 13447, 13464, 13651, 13661, 13691, 13695, 2569, 13807, 13873,
+			13943, 14403, 15694, 16903, 14032, 14486, 14127, 14183, 14191, 14194, 14264, 14279,
+			14348, 14218, 14358, 14362, 14054, 14511, 14588, 14590, 14600, 14637, 3591, 14685,
+			14708, 14719, 14773, 20192, 14874, 14890, 14947, 14984, 15177, 15219, 15399, 15288,
+			15301, 15342, 15348, 16596, 18189, 15407, 15441, 15446, 15492, 15541, 15563, 15660,
+			15664, 15665, 15715, 15728, 10148, 15514, 15841, 15861, 15432, 15940, 15497, 15983,
+			16059, 16157, 16088, 16211, 16231, 16255, 16286, 16271, 16313, 16428, 16326, 16441,
+			16462, 16788, 16814, 16815, 16816, 17107, 17109, 17110, 17220, 17216, 17279, 17284,
+			17328, 18222, 17615, 7553, 17619, 16165, 17659, 17694, 17728, 17734, 17735, 17749,
+			17746, 17739, 17877, 17905, 19946, 17999, 18073, 18074, 18075, 18079, 18145, 18719,
+			18754, 18955, 18267, 18218, 18265, 18303, 18312, 18314, 18353, 18355, 18356, 18439,
+			18488, 18533, 18559, 18775, 18639, 18620, 18580, 18577, 18785, 18861, 18773, 18844,
+			18835, 18874, 20017, 18935, 19007, 17605, 19082, 19121, 19149, 19176, 19269, 19283,
+			19311, 17647, 19428, 19563, 19550, 19658, 19757, 19753, 19758, 19922, 19977, 19988,
+			20014, 20138, 20157, 20227, 20375, 20395, 20397, 20475, 20472
+		</freetext6>
+		<freetext7 desc="projecttype">Architecture</freetext7>
+		<freetext8 desc="designer">de Architekten Cie.</freetext8>
+		<freetext9 desc="projecturl">
+			http://www.mimoa.eu/projects/Netherlands/Amsterdam/The%20Whale
+		</freetext9>
+		<category>2</category>
+		<lon>4.941598</lon>
+		<lat>52.373272</lat>
+		<thumb>http://mimoa.eu/images/7574_s.jpg</thumb>
+		<image1>http://mimoa.eu/images/7574_m.jpg</image1>
+		<imageset>
+			http://mimoa.eu/images/37988_m.jpg,http://mimoa.eu/images/37987_m.jpg,http://mimoa.eu/images/7574_m.jpg
+		</imageset>
+		<imagedescription>architour (www.architour.nl),Allard van der Hoek
+			(www.allardvanderhoek.eu/),Luis Monteiro
+		</imagedescription>
+		<summary>The Whale is one of three big “meteorites” which have landed
+			in-between the lowrise row houses on the Islands of Borneo and
+			Sporenburg. Thanks to its sculptural shape, this building by Frits
+			van Dongen is a real landmark. Inside are 194 apartments and
+			1100 m2 office and retail space. Underneath is a large parking
+			garage with 179 places. The traditional closed block (100 by 60
+			m) has been transformed by lifting the two, so the public space
+			flows through underneath. Inside the block is a private garden,
+			designed by West 8. The apartments are accessed from galleries
+			running along the inner façade.
+		</summary>
+		<datecreated>2006-12-22 00:29:50</datecreated>
+		<datemodified>2014-06-14 18:24:12</datemodified>
+	</item>
+	<item>
+		<id>14</id>
+		<title>Cinema Het Ketelhuis</title>
+		<address>Pazzanistraat</address>
+		<number>13</number>
+		<postcode>1014 DB</postcode>
+		<city>Amsterdam</city>
+		<country>Netherlands</country>
+		<website>http://www.ketelhuis.nl</website>
+		<freeint1 desc="rating">4</freeint1>
+		<freetext1 desc="public">1</freetext1>
+		<freetext2 desc="contributor">MI_MOA</freetext2>
+		<freetext3 desc="completion">9 - 2006</freetext3>
+		<freetext4 desc="client">Stichting Het Ketelhuis</freetext4>
+		<freetext5 desc="function">cinema, bar</freetext5>
+		<freetext6 desc="guide_id">69, 107, 120, 148, 183, 228, 236, 305, 327, 355, 360, 363, 412,
+			437, 746, 506, 462, 544, 569, 575, 581, 582, 679, 693, 686, 799, 861, 820, 958, 1007,
+			1028, 1067, 1127, 1166, 1159, 1167, 1168, 1254, 1295, 1321, 17755, 1345, 1390, 1513,
+			1543, 1557, 1668, 1598, 1618, 1652, 1654, 1723, 1744, 1804, 1786, 1830, 1853, 1875,
+			1890, 1900, 1915, 2062, 106, 2100, 2186, 2213, 2253, 2264, 2355, 2361, 2651, 2653, 2663,
+			2854, 2887, 2998, 3066, 3076, 3086, 3274, 3326, 3354, 3364, 3468, 3506, 3503, 3575,
+			3598, 3601, 3641, 3619, 3654, 3666, 3669, 3706, 3750, 3794, 3860, 3890, 3876, 3881,
+			3969, 17066, 4046, 4071, 4147, 3320, 3568, 4372, 4342, 4362, 4367, 4407, 4434, 4467,
+			4561, 8382, 8364, 4730, 4724, 4767, 4853, 5175, 4748, 5092, 5145, 5161, 2680, 5168,
+			5179, 5283, 5617, 5334, 5333, 9457, 5539, 5554, 17756, 5829, 6009, 5891, 5978, 6113,
+			6120, 6202, 6228, 6404, 2378, 5805, 6580, 6650, 6788, 6869, 6877, 6949, 7022, 7117,
+			7137, 9654, 9696, 8158, 6919, 7525, 7623, 7644, 7813, 4677, 7846, 7834, 7842, 7877,
+			7950, 7690, 8268, 8279, 8225, 13753, 8466, 8577, 8578, 8807, 8774, 9059, 9164, 9085,
+			8095, 9402, 2823, 9415, 9413, 9422, 9433, 9432, 9493, 9501, 9502, 9543, 9519, 9618,
+			9605, 9600, 9598, 5447, 9841, 6857, 9403, 9883, 9859, 9899, 9930, 9945, 9994, 10009,
+			10052, 10142, 10182, 10370, 10389, 10580, 10905, 10573, 10607, 10637, 10720, 10744,
+			10772, 10852, 10877, 11727, 5146, 11046, 11042, 11085, 11142, 11287, 11322, 17784,
+			11365, 11585, 11595, 11615, 11630, 11668, 11828, 11839, 11849, 11882, 11898, 12250,
+			11956, 11968, 12023, 12344, 12747, 12276, 11962, 12430, 12415, 12427, 12422, 12447,
+			12497, 12555, 12528, 12639, 12674, 12694, 12668, 12798, 12818, 12904, 13033, 13032,
+			13157, 13257, 19334, 13286, 13292, 13447, 13594, 13651, 13661, 13691, 2569, 13807,
+			13873, 13943, 13988, 16903, 14032, 14127, 14279, 14362, 14054, 14590, 14600, 14637,
+			14890, 15177, 15214, 16596, 15407, 15441, 15446, 15563, 15664, 15728, 15841, 15861,
+			15497, 15983, 16059, 16157, 16211, 16222, 16286, 16428, 16456, 16876, 16814, 16815,
+			16816, 16859, 17107, 17109, 17279, 17284, 17462, 19838, 3520, 7553, 17619, 16165, 17694,
+			17728, 17746, 17877, 17999, 18073, 18079, 18145, 18719, 18955, 18267, 18218, 18312,
+			18314, 18353, 18355, 18356, 18488, 18533, 18559, 18775, 18577, 18785, 18773, 18844,
+			18835, 18874, 11573, 18935, 17605, 19082, 19099, 19121, 19149, 19269, 19283, 19311,
+			19550, 16167, 19706, 19757, 19764, 19922, 19946, 20017, 20157, 20227, 20228, 18662,
+			20375, 20475
+		</freetext6>
+		<freetext7 desc="projecttype">Interior</freetext7>
+		<freetext8 desc="designer">Ramin Visch</freetext8>
+		<freetext9 desc="projecturl">
+			http://www.mimoa.eu/projects/Netherlands/Amsterdam/Cinema%20Het%20Ketelhuis
+		</freetext9>
+		<category>1</category>
+		<lon>4.873884</lon>
+		<lat>52.386222</lat>
+		<thumb>http://mimoa.eu/images/1125_s.jpg</thumb>
+		<image1>http://mimoa.eu/images/1125_m.jpg</image1>
+		<imageset>
+			http://mimoa.eu/images/1124_m.jpg,http://mimoa.eu/images/1125_m.jpg,http://mimoa.eu/images/1126_m.jpg
+		</imageset>
+		<imagedescription>René Mesman,Jeroen Musch (http://www.jeroenmusch.nl),Jeroen Musch
+			(http://www.jeroenmusch.nl)
+		</imagedescription>
+		<summary>The State Monument Ketelhuis (used for the heating installation of the Westergas
+			Factory) has been renovated into a cinema. The Ketelhuis wanted to create an environment
+			where film and bar merge and (film) festivals and congresses can be held for 200
+			persons. Now the Ketelhuis has three grand halls for cinema, all rooms are put in one
+			large box. The space that is &quot;left&quot; is used for a new bigger café.
+		</summary>
+		<datecreated>2006-12-22 00:29:50</datecreated>
+		<datemodified>2007-03-15 18:19:39</datemodified>
+	</item>
+	<item>
+		<id>15</id>
+		<title>Lloyd Hotel &amp; Cultural Embassy</title>
+		<address>Oostelijke Handelskade</address>
+		<number>34</number>
+		<postcode>1019 BN</postcode>
+		<city>Amsterdam</city>
+		<country>Netherlands</country>
+		<website>http://www.lloydhotel.com</website>
+		<freeint1 desc="rating">3</freeint1>
+		<freetext1 desc="public">1</freetext1>
+		<freetext2 desc="contributor">MI_MOA</freetext2>
+		<freetext3 desc="completion">0 - 2004</freetext3>
+		<freetext4 desc="client">Lloyd Hotel</freetext4>
+		<freetext5 desc="function">hotel, renovation, tourism</freetext5>
+		<freetext6 desc="guide_id">48, 107, 130, 148, 171, 173, 252, 236, 327, 355, 360, 363, 746,
+			544, 569, 575, 581, 582, 693, 679, 686, 727, 865, 820, 999, 1028, 1127, 1668, 1166,
+			1159, 1167, 1168, 1254, 1295, 1345, 1390, 1477, 1513, 1543, 1557, 1598, 1618, 1652,
+			1654, 1868, 1740, 1723, 1751, 1804, 1830, 1875, 1890, 1900, 1954, 1915, 305, 2046, 2058,
+			2062, 106, 2086, 2186, 2213, 4495, 9741, 2247, 2253, 2264, 2355, 2361, 2454, 12550,
+			2692, 2651, 2653, 2220, 2840, 2854, 2887, 3066, 3076, 3086, 3132, 3506, 3274, 3326,
+			3355, 3389, 3405, 3463, 3468, 3537, 3598, 3601, 3605, 3641, 3666, 3706, 3750, 3794,
+			3824, 3860, 3876, 3890, 3946, 3981, 4024, 4046, 4080, 4071, 3568, 4367, 4407, 4434,
+			4467, 4481, 4561, 4724, 4730, 4807, 5013, 4748, 5113, 5145, 2680, 5168, 5334, 5333,
+			5431, 5903, 5539, 5554, 5615, 5684, 17066, 5783, 5842, 6009, 5901, 5893, 5891, 5923,
+			5920, 5978, 6116, 6120, 6239, 6788, 6404, 6446, 2378, 6506, 5805, 6650, 6823, 6863,
+			6877, 6949, 6963, 7022, 7079, 7117, 9654, 8158, 6919, 7525, 7623, 7731, 7813, 4677,
+			7834, 7846, 7864, 7950, 8017, 8225, 8268, 8279, 8366, 8495, 8364, 13753, 8458, 8466,
+			7368, 8577, 8578, 8635, 8683, 8807, 8846, 9059, 8896, 9141, 9085, 8095, 2823, 9415,
+			9413, 9422, 9433, 9432, 9457, 9493, 9501, 9519, 9530, 9618, 9598, 9640, 9742, 9776,
+			11443, 9754, 9883, 9403, 9892, 9859, 9899, 9901, 9930, 6857, 9965, 9945, 9987, 9994,
+			10009, 10022, 10182, 10370, 10389, 10494, 10520, 10573, 10607, 10679, 10720, 10744,
+			10772, 10798, 10846, 10852, 5146, 11042, 11046, 11142, 11175, 11307, 17784, 11492,
+			11586, 11595, 11615, 11630, 11638, 11668, 11214, 11839, 11882, 11898, 12250, 12023,
+			12075, 12182, 16451, 12306, 12373, 12276, 11962, 12415, 12430, 12427, 12425, 12447,
+			12555, 12528, 12639, 12668, 12669, 12694, 6791, 12798, 16178, 7785, 12895, 12903, 12904,
+			12983, 13033, 13032, 13157, 13193, 19334, 13286, 13292, 13570, 13376, 13421, 13447,
+			13651, 13652, 13661, 13751, 13703, 2569, 13807, 13873, 13898, 13943, 13959, 14278,
+			16903, 14032, 14486, 14127, 14187, 14218, 14348, 14358, 14362, 14054, 14511, 14600,
+			14890, 14984, 15067, 15177, 15214, 4014, 15301, 15342, 15348, 15363, 16595, 15407,
+			15441, 15446, 15482, 15563, 15644, 15664, 15841, 15861, 16428, 15966, 15497, 15983,
+			15951, 16059, 16088, 16211, 16286, 16309, 16456, 16536, 16596, 16814, 16815, 16816,
+			16913, 17098, 17107, 17216, 17220, 17279, 17284, 18222, 19838, 3520, 17615, 7553, 17619,
+			16165, 17659, 17728, 17749, 17746, 17877, 19922, 17942, 17999, 18073, 18074, 18075,
+			18079, 18145, 18192, 18267, 18218, 18312, 18355, 18353, 18356, 18488, 18533, 18529,
+			18559, 18775, 18620, 18577, 18785, 18861, 18773, 18835, 18874, 18935, 19007, 17605,
+			19082, 19121, 19149, 19176, 19269, 19283, 19311, 19473, 16167, 19736, 19757, 19764,
+			19967, 19977, 19988, 20017, 20157, 20227, 20395, 20397, 20475
+		</freetext6>
+		<freetext7 desc="projecttype">Architecture, Interior</freetext7>
+		<freetext8 desc="designer">MVRDV</freetext8>
+		<freetext9 desc="projecturl">
+			http://www.mimoa.eu/projects/Netherlands/Amsterdam/Lloyd%20Hotel%20%26%20Cultural%20Embassy
+		</freetext9>
+		<category>1</category>
+		<lon>4.934852</lon>
+		<lat>52.374276</lat>
+		<thumb>http://mimoa.eu/images/37983_s.jpg</thumb>
+		<image1>http://mimoa.eu/images/37983_m.jpg</image1>
+		<imageset>
+			http://mimoa.eu/images/37983_m.jpg,http://mimoa.eu/images/37984_m.jpg,http://mimoa.eu/images/487_m.jpg
+		</imageset>
+		<imagedescription>Allard van der Hoek (www.allardvanderhoek.eu/),MVRDV,Naomi Schiphorst
+			(http://www.nghm.nl)
+		</imagedescription>
+		<summary>The Lloyd Hotel, a former immigrants’ hostel, is a new hotel
+			centrally situated in the Amsterdam’s Eastern Docklands area.
+			Several Dutch architects, designers and artists have transformed
+			this monument dating from 1921 into a hotel. MVRDV were
+			responsible for the design of the main hall, the heart of the
+			building. Here a new dining room is cut out of the existing
+			structure, forming a 6-storey void with three boxes and platforms
+			hanging inside it. All 117 rooms - with ratings from one to five
+			stars - differ in size and interior. MVDRV and Joep van Lieshout,
+			together with Bureau Lakenvelder, designed several rooms;
+			furniture and interior objects were contributed by a.o. Claudy
+			Jongstra, Hella Jongerius, Marcel Wanders and Richard Hutten.
+		</summary>
+		<datecreated>2006-12-22 00:29:50</datecreated>
+		<datemodified>2014-06-14 17:54:35</datemodified>
+	</item>
+	<item>
+		<id>16</id>
+		<title>Movenpick Hotel</title>
+		<address>Piet Heinkade</address>
+		<number>11</number>
+		<postcode>1019 BR</postcode>
+		<city>Amsterdam</city>
+		<country>Netherlands</country>
+		<website>http://www.amplan.nl</website>
+		<freeint1 desc="rating">3</freeint1>
+		<freetext1 desc="public">1</freetext1>
+		<freetext2 desc="contributor">MI_MOA</freetext2>
+		<freetext3 desc="completion">9 - 2006</freetext3>
+		<freetext4 desc="client">Amplan Vastgoed</freetext4>
+		<freetext5 desc="function">congress centre, hotel</freetext5>
+		<freetext6 desc="guide_id">107, 173, 231, 355, 360, 363, 746, 569, 575, 582, 663, 679, 686,
+			820, 958, 999, 1028, 1127, 1668, 1667, 1166, 1167, 1168, 1254, 1295, 1345, 1390, 1513,
+			1556, 1557, 1598, 1618, 1652, 1654, 1868, 1740, 1723, 1890, 1900, 2001, 1915, 305, 2061,
+			1663, 2186, 2213, 2264, 2058, 2355, 2361, 2651, 2653, 2220, 2854, 2887, 2952, 3066,
+			3076, 3086, 3185, 3183, 3187, 3274, 3306, 3355, 3468, 3537, 3575, 3598, 3619, 3641,
+			3666, 3706, 3750, 3794, 3824, 3860, 3876, 3890, 3981, 17066, 4046, 4071, 4222, 3568,
+			4367, 4407, 4434, 4467, 4495, 4561, 8382, 4730, 4748, 5092, 5113, 5145, 5161, 2680,
+			5168, 5299, 5334, 5333, 5350, 5554, 5684, 5893, 5978, 6116, 6120, 6435, 2378, 5805,
+			6580, 6650, 6824, 6877, 6949, 7022, 7117, 9654, 6919, 7525, 7813, 4677, 7846, 7834,
+			7864, 7950, 8279, 8366, 8364, 8225, 13753, 8458, 8466, 8572, 8577, 8578, 8635, 8807,
+			9059, 8985, 9085, 8095, 9172, 2823, 9415, 9413, 9422, 9433, 9432, 9457, 9493, 9501,
+			9618, 9598, 9403, 9883, 9892, 9859, 9899, 9930, 6857, 9994, 10009, 10022, 15497, 10136,
+			10182, 10280, 10370, 10389, 10588, 10573, 10607, 10720, 10744, 10772, 10798, 5146,
+			11046, 17784, 11586, 11630, 11668, 11839, 5345, 12075, 12250, 16456, 11962, 12430,
+			12415, 12427, 12447, 12668, 12669, 12694, 12798, 11214, 13033, 13032, 13044, 13063,
+			13157, 13286, 13292, 13651, 13661, 2569, 13807, 13943, 14278, 14127, 14194, 14348,
+			14590, 14600, 14890, 14984, 15067, 15407, 15441, 15446, 15664, 15841, 15861, 15432,
+			15940, 15983, 16059, 16088, 16211, 16286, 16271, 16313, 16596, 16814, 16815, 16816,
+			16913, 17220, 17279, 17284, 18222, 18266, 17616, 7553, 17619, 16165, 17659, 17728,
+			17746, 17877, 17999, 18073, 18074, 18075, 18079, 18145, 18218, 18312, 18355, 18353,
+			18356, 18488, 18559, 18775, 18577, 18785, 18773, 18835, 18874, 11573, 18935, 19007,
+			17605, 19082, 19121, 19149, 19269, 19311, 19757, 19922, 20067, 20157, 20227
+		</freetext6>
+		<freetext7 desc="projecttype">Architecture</freetext7>
+		<freetext8 desc="designer">Claus en Kaan Architecten</freetext8>
+		<freetext9 desc="projecturl">
+			http://www.mimoa.eu/projects/Netherlands/Amsterdam/Movenpick%20Hotel
+		</freetext9>
+		<category>1</category>
+		<lon>4.914172</lon>
+		<lat>52.377852</lat>
+		<thumb>http://mimoa.eu/images/79_s.jpg</thumb>
+		<image1>http://mimoa.eu/images/79_m.jpg</image1>
+		<imageset>
+			http://mimoa.eu/images/79_m.jpg,http://mimoa.eu/images/80_m.jpg,http://mimoa.eu/images/82_m.jpg
+		</imageset>
+		<imagedescription>Naomi Schiphorst (http://www.nghm.nl),Naomi Schiphorst
+			(http://www.nghm.nl),Naomi Schiphorst (http://www.nghm.nl)
+		</imagedescription>
+		<summary>This 65 m high, four-star hotel counts 410 rooms and features a
+			touring car terminal, an underground parking garage and several
+			conference rooms. On top of a red ceramic-clad plinth, which
+			runs through to the Passenger Terminal, stands the nine-storey
+			hotel tower. The façade of the hotel is made out of horizontal
+			strips of glass, granite, marble and white concrete. Due to the
+			stripe pattern and the materials, the façade is unusually abstract:
+			neither the floors nor the function can be read from outside.
+		</summary>
+		<datecreated>2006-12-22 00:29:50</datecreated>
+		<datemodified>2014-06-13 16:35:29</datemodified>
+	</item>
+</Document>

@@ -1,0 +1,24 @@
+{
+  "name": "mimoaDBsync",
+  "version": "1.0.0",
+  "description": "database sync",
+  "main": "X2J2F/chunkify/chunky.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "fs": "^0.0.2",
+    "node-schedule": "^0.2.6",
+    "mongodb": "^2.0.27",
+    "http": "^0.0.0",
+    "util": "^0.10.3",
+    "jsonfile": "^2.0.0",
+    "xml2js": "^0.4.6",
+    "sys": "^0.0.1",
+    "q": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Eikema",
+  "license": "ISC"
+}
