@@ -6,6 +6,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "fs": "^0.0.2",
+    "graceful-fs":"^3.0.6",
     "node-schedule": "^0.2.6",
     "mongodb": "^2.0.27",
     "http": "^0.0.0",
@@ -16,9 +17,6 @@
     "q": "^1.2.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Jesse Eikema",
   "license": "ISC"
 }
